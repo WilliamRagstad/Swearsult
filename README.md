@@ -1,5 +1,5 @@
 # Swearsult
- An esoteric language of mere swear words.
+swear word + insult = **Swearsult**, an esoteric joke language of mere swear words.
 
 ```
 Fuck
