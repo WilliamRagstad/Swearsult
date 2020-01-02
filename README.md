@@ -9,7 +9,7 @@ So for example, the following tokens are valid: `ShiT, piss off you c*nT!!!, bOl
 It was invented on December 29, 2019 by [William Rågstad](https://esolangs.org/wiki/User:WilliamRagstad).
 
 # Language overview
-A Swearsult program consists of swear words in both the American and British dialect of English together with some [extra words](#extra_words) for the possibility to create understandable sentences. Every line has a number of words separated by spaces. The number of words corresponds to an opcode. Trailing newlines are significant, as an empty line will produce a `0`-opcode.
+A Swearsult program consists of swear words in both the American and British dialect of English together with some [extra words](#extra-words) for the possibility to create understandable sentences. Every line has a number of words separated by spaces. The number of words corresponds to an opcode. Trailing newlines are significant, as an empty line will produce a `0`-opcode.
 
 Instructions are loaded onto the stack and executed there directly, which allows for injecting arbitrary code and executing it through a jump. Self-modifying code is also possible because the program stack is not bounded.
 
