@@ -7,6 +7,8 @@ namespace Swearsult
     {
         static void Main(string[] args)
         {
+            args = new[] { "helloworld.sw" };
+
             bool debug = false;
 
             // Find Flags
@@ -22,6 +24,8 @@ namespace Swearsult
                     new Interpreter(args[i]).Interpret(debug);
                 }
             }
+
+            Console.ReadKey(true);
         }
     }
 }
