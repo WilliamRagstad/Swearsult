@@ -19,6 +19,8 @@ The user is able to supply an input value before executing the program. This inp
 
 This is an derivative of the [Chicken](https://esolangs.org/wiki/Chicken)-or [Duck Duck Goose](https://esolangs.org/wiki/Duck_Duck_Goose) grammar.
 
+The OP code is directly reflective and determined by the amount of difficult words on each line.
+
 | Opcode |    Name     | SwearsultASM Name |                         Description                          |
 | :----: | :---------: | :---------------: | :----------------------------------------------------------: |
 |  `0`   |    exit     |        die        |                       Stop execution.                        |
