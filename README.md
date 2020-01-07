@@ -17,7 +17,7 @@ The user is able to supply an input value before executing the program. This inp
 
 # Grammar
 
-This is an derivative of [Chicken](https://esolangs.org/wiki/Chicken)'s grammar.
+This is an derivative of the [Chicken](https://esolangs.org/wiki/Chicken)-or [Duck Duck Goose](https://esolangs.org/wiki/Duck_Duck_Goose) grammar.
 
 | Opcode |    Name     | SwearsultASM Name |                         Description                          |
 | :----: | :---------: | :---------------: | :----------------------------------------------------------: |
