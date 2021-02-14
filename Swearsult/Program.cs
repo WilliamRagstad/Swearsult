@@ -7,7 +7,7 @@ namespace Swearsult
     {
         static void Main(string[] args)
         {
-            args = new[] { "helloworld.sw" };
+            // args = new[] { "helloworld.sw" };
 
             bool debug = false;
 
