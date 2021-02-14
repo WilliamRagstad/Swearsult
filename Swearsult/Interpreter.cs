@@ -75,6 +75,7 @@ namespace Swearsult
             "it's",
             "in",
             "a",
+            "am",
             "of",
             "off",
             "oh",
